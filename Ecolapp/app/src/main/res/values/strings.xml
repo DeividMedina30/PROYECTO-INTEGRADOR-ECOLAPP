@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ecolapp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">ECOLAPP</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Presentamos EcolApp, una innovadora plataforma que te permite recibir recompensas por reciclar
+        mientras contribuyes al medio ambiente y ganas puntos canjeables. Diseñada tanto para aquellos
+        que desean hacer su parte por el planeta como para recolectores comprometidos, EcolApp ofrece
+        una solución integral que promueve la sostenibilidad y la conciencia ambiental.\n\n
+
+        Dirigida al público en general, EcolApp tiene un enfoque especial en tres grupos de personas clave:
+        aquellos que desean reciclar de manera efectiva, personas de entre 18 y 55 años y recolectores
+        comprometidos. Nuestra aplicación intuitiva y fácil de usar estará disponible tanto en plataformas
+        web como en dispositivos Android, brindando acceso conveniente y práctico a una amplia audiencia.\n\n
+
+        Con EcolApp, el proceso de reciclaje se transforma en una experiencia gratificante. A medida que
+        depositas tus materiales reciclables, acumulas puntos que puedes canjear por recompensas exclusivas
+        en nuestra red de socios colaboradores.\n\n
+
+        ¡Reciclar nunca ha sido tan emocionante ni tan recompensante!
+    </string>
+</resources>
